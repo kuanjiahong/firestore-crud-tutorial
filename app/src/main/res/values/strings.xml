@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Firestore CRUD Tutorial</string>
+    <string name="welcome_message">The city is under attack! We need to slay the monster!</string>
+    <string name="create_button">Create</string>
+    <string name="read_button">Read</string>
+    <string name="update_button">Update</string>
+    <string name="restart_button">Restart</string>
+    <string name="attack_button">Attack</string>
+    <string name="play_button">Play</string>
+    <string name="create_player_message">Create Player</string>
+    <string name="player_name_hint">Enter Player Name</string>
+
+    <string name="monster_label">Monster</string>
+    <string name="player_label">Player</string>
+    <string name="monster_name_label">Monster Name :</string>
+    <string name="monster_health_label">Monster Health :</string>
+    <string name="player_name_label">Player Name:</string>
+
+    <string name="congratulations">You have slain the monster. Click Restart to reset the game</string>
+    <string name="hit_message">You have hit the monster</string>
+</resources>
